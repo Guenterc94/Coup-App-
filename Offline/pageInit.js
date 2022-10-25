@@ -21,9 +21,9 @@
 //   "KeyW"
 // );
 // import "./gameRunner";
-import  player from "../playerClass.js";
-import { deck } from "../deckClass.js";
-import { card } from "../cardClass.js";
+import  player from "../Offline/playerClass.js";
+import { deck } from "../Offline/deckClass.js";
+import { card } from "../Offline/cardClass.js";
 
 
 let initialDeck = new deck();
